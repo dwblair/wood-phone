@@ -34,6 +34,7 @@ minkowski()
   cylinder(r=2,h=1);
 }
 
+/*
 translate([0,(phone_height-modem_height)/2,0]) {
 //modem
 cube([modem_length,modem_height,3]);
@@ -42,6 +43,8 @@ cube([modem_length,modem_height,3]);
 translate([modem_length+x_gap,0,0])
 cube([feather_width,feather_height,3]);
 }
+*/
+
 /*
 translate([5,52,0])
 cylinder(r=1.5,h=5);
