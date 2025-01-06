@@ -17,7 +17,7 @@ cylinder(r=2,h=5);
 */
 
 phone_length=88;
-phone_height=55;
+phone_height=53;
 
 modem_length=61;
 modem_height=53;
